@@ -1,0 +1,17 @@
+{
+  "gallery": {
+  },
+  "history": {
+    "title": "História das\nBengalas", 
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dictum, mi in molestie ultrices, risus tellus molestie erat, vitae efficitur justo ex ac lacus. Nulla nisl leo, mattis sed rhoncus sed, rhoncus tincidunt sapien. Curabitur ornare diam at mi pulvinar hendrerit. Praesent iaculis lorem id elit laoreet, porta consectetur sem suscipit. Vestibulum posuere tincidunt laoreet. Nullam tincidunt velit at nibh varius gravida ut et odio. Mauris egestas, diam non eleifend varius, ligula turpis malesuada nunc, tristique aliquet sapien mauris ac diam. Cras blandit accumsan erat, id placerat enim convallis ut. Morbi maximus vitae dui non rutrum.\nAenean maximus blandit metus sodales pretium. In volutpat pellentesque lectus, eget dapibus nisl dictum vel. Phasellus eget rutrum dui. Mauris non diam purus. Vestibulum id felis semper, interdum eros vel, convallis velit. Nulla blandit pellentesque posuere. Integer nec urna vitae purus eleifend bibendum in id lorem. In euismod ante orci, euismod euismod sem egestas non. Nulla laoreet odio ut arcu suscipit, a feugiat erat porta. Aenean nec leo ut leo ullamcorper iaculis nec et dui.\nEtiam nec felis nec urna pellentesque rutrum et interdum felis. Nullam tempus ipsum eu nisi accumsan, auctor ultrices nulla efficitur. Proin ullamcorper, lorem vitae scelerisque lacinia, dolor quam dictum tortor, eget convallis urna libero sit amet ligula. Cras porta dignissim leo, sit amet hendrerit dui vulputate at. Integer ultricies vitae velit in cursus. Etiam ultrices, purus et eleifend bibendum, metus mi viverra enim, eu tristique ante odio eu erat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non scelerisque tellus. Donec id ultrices neque. Vestibulum ultrices lorem urna, dictum finibus tellus vestibulum ut. Cras ut ipsum vulputate, tincidunt augue id, semper nunc. Nulla vehicula sem ac dolor euismod, ullamcorper hendrerit massa imperdiet. Quisque congue tortor ut vestibulum egestas. Fusce vel sollicitudin nisl.\nEtiam pharetra malesuada leo, ut malesuada erat porta sed. Donec dui est, placerat et libero et, consequat tristique nibh. Nam quis mauris tincidunt, ornare quam id, vulputate nibh. Donec suscipit sagittis ante, eget egestas odio pretium ac. Donec vitae tellus arcu. Etiam at rhoncus lorem. Suspendisse sit amet placerat ante, vel ultrices ligula. Nam at egestas lectus. Cras porta nisl eget libero sollicitudin rutrum eget a neque. Praesent interdum arcu non tincidunt rhoncus."
+  },
+  "interviews": {
+    "1": "/Eduardo CardosoPT.mp4",
+    "2": "/Serafim TeixeiraPT.mp4"
+  }, 
+  "menus": {
+    "gallery": "Galeria",
+    "history": "História das\nBengalas",
+    "interviews": "Entrevistas"
+  }
+}

@@ -1,0 +1,40 @@
+{
+    "title": "Title 1",
+    "submenus": [
+        {
+            "title": "First title",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae enim justo. Quisque pharetra augue non egestas aliquam. Proin magna sapien, faucibus in gravida sed, porta ac velit. Sed porta porttitor pretium. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+            "image": "screen/1.jpg"
+        },
+        {
+            "title": "Second title",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae enim justo. Quisque pharetra augue non egestas aliquam. Proin magna sapien, faucibus in gravida sed, porta ac velit. Sed porta porttitor pretium. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+            "image": "screen/2.jpg"
+        },
+        {
+            "title": "Third title",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae enim justo. Quisque pharetra augue non egestas aliquam. Proin magna sapien, faucibus in gravida sed, porta ac velit. Sed porta porttitor pretium. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut sit amet venenatis magna.",
+            "image": "screen/3.jpg",
+            "widthImg": "50%",
+            "widthText": "40%"
+            
+        },
+        {
+            "title": "Fourth title",
+            "text": "In et massa at risus ornare fermentum. Nullam nulla sem, interdum non ante at, varius commodo metus. Nulla id nisl eget erat ultricies bibendum. Mauris consequat tempus ex eu dictum. Nullam semper magna elit, et posuere leo egestas nec. Maecenas sem mi, rutrum eget convallis ac, auctor ac nisi. Donec in lorem quis sem feugiat consequat at at magna. Mauris sodales ligula ut nibh lacinia tincidunt sit amet eu sapien.",
+            "image": "screen/4.jpg",
+            "widthImg": "32%",
+            "widthText": "68%"
+        },
+        {
+            "title": "Fifth title",
+            "text": "Aenean non dignissim odio. Curabitur scelerisque, libero eget fringilla tempus, mi velit faucibus nibh, a accumsan massa lacus nec mauris. Vestibulum vulputate sollicitudin odio eget mattis. Phasellus eget magna laoreet, rhoncus nulla vehicula, interdum nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut faucibus turpis. Morbi eget velit nisi.",
+            "image": "screen/5.jpg"
+        },
+        {
+            "title": "Sixth title",
+            "text": "Vestibulum eu velit varius, placerat enim id, pharetra orci. Aliquam ut consequat tortor. In hac habitasse platea dictumst. Donec sit amet neque nec lorem convallis pretium. Suspendisse a suscipit est. Nulla facilisi. Phasellus pulvinar in urna sed vehicula. Praesent id tempus mi. Duis egestas sem sed orci ullamcorper sodales.",
+            "image": "screen/6.jpg"
+        }
+    ]
+}
